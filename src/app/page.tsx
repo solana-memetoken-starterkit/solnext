@@ -7,6 +7,7 @@ export default function Home() {
     <main className="items-center justify-center w-full h-screen flex bg-[url('/bg.jpeg')] bg-no-repeat bg-cover bg-center">
       <div className="mt-4 flex flex-col items-center">
         <WalletMButton />
+        <div className="p-4"></div>
         <Airdrop />
       </div>
     </main>
