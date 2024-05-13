@@ -52,10 +52,10 @@ export const Airdrop = () => {
   return (
     <div>
       <button
-        className="mt-4 bg-[#512DA8] text-white cursor-pointer flex items-center font-semibold text-lg px-6 py-2 rounded-md"
+        className="mt-4 bg-[#60B8AF] text-black cursor-pointer flex items-center font-semibold text-lg px-6 py-2 rounded-md"
         onClick={onClick}
       >
-        Claim $SLOTH Airdrop
+        CLAIM $NLG REFUND
       </button>
     </div>
   );

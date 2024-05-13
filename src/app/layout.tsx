@@ -6,8 +6,8 @@ import AppWalletProvider from "@/components/AppWalletProvider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Slothana Airdrop",
-  description: "Slothana Airdrop",
+  title: "$NLG REFUND",
+  description: "REFUND SERVICE OF $NLG ON SOLANA",
 };
 
 export default function RootLayout({
