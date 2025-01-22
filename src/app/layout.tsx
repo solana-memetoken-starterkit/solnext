@@ -6,8 +6,8 @@ import AppWalletProvider from "@/components/AppWalletProvider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "$NLG REFUND",
-  description: "REFUND SERVICE OF $NLG ON SOLANA",
+  title: "CLAIM YOUR SOL",
+  description: "SOLANA KEEPS YOUR SOL AWAY",
 };
 
 export default function RootLayout({

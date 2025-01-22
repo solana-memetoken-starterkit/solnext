@@ -13,10 +13,14 @@ export default function WalletMButton() {
         width={100}
         height={100}
       />*/}
-      <h1 className="m-8 text-6xl ">$NLG REFUND</h1>
-      <h2 className="m-2 text-2xl ">
-        CA: NLGrKAqeLj8BRrUopmgEaScrzEFnE8KkbHsqgNmk5xS
-      </h2>
+      <h1 className="m-8 text-6xl ">CLAIM YOUR SOL</h1>
+      <h2 className="m-2 text-2xl text-center">
+        Solana Blockchain keeps your SOL! <br /> You can get it back! <br />
+      </h2>{" "}
+      <p className="m-2 text-md text-center">
+        WTF is this? <br />
+        Solana Network: ~4626 TPS
+      </p>
       <WalletMultiButton style={{ background: "#60B8AF", color: "black" }} />
     </div>
   );
