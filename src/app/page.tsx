@@ -10,8 +10,8 @@ export default function Home() {
       <div className="flex items-center justify-center w-full">
         <Image
           className="mt-6"
-          alt="banner"
-          src="/banner.png"
+          alt="logo"
+          src="/logo2.png"
           width={350}
           height={350}
         />
