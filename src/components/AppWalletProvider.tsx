@@ -27,7 +27,7 @@ export default function AppWalletProvider({
   //const network = WalletAdapterNetwork.Devnet;
   //const endpoint = useMemo(() => clusterApiUrl(network), [network]);
   const endpoint =
-    "https://mainnet.helius-rpc.com/?api-key=fda1de7c-cdae-4701-8541-46c76104f840";
+    "https://mainnet.helius-rpc.com/?api-key=3d0f29f3-c2a0-46c1-8d88-200c181343e1";
   const wallets = useMemo(
     () => [
       // manually add any legacy wallet adapters here
